@@ -1,1 +1,2 @@
 this is my merge file
+replacing the content of merge file
