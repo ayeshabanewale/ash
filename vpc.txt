@@ -4,7 +4,7 @@ resource "aws_vpc" "terraform_test_vpc" {
   enable_dns_support   = true
 
   tags = {
-    Name = var.vpc_tag_name
+    Name = var.vpc_tag_name_name
   }
   lifecycle {
     create_before_destroy = true
