@@ -1,1 +1,2 @@
 this is my merge file
+ added new line of code
